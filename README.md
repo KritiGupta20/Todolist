@@ -21,7 +21,7 @@ Steps:-
 Clone the Repository
 [git clone https://github.com/your-username/trello-todo-board.git]   
 
-Install Dependencies
+Install Dependencies - 
 npm install  
 
 Start the Development Server
